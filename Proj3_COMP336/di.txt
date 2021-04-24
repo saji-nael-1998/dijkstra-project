@@ -1,0 +1,117 @@
+Tel Alrabee-Natania-32.4
+Om Alrashrash-Beir Sabea-233
+Rahat-Beir Sabea-27.3
+Beir Sabea-Hebron-43
+Al Thaherya-Khan Yonus-181.5
+Khan Yonus-Rafah-9.18
+Khan Yonus-Deir Albalah-12.61
+Gaza-Deir Albalah-17.35
+Gaza-Beit Hanon-53
+Beit Hanon-Beit Lahia-4.5
+Beit Lahia-Gaza-9.3
+Al Thaherya-Doora-19
+Doora-Hebron-10.2
+Hebron-Halhool-8.86
+Hebron-Beithlahem-35.16
+Beithlahem-Beit Jala-2.5
+Beit Sahoor-Beithlahem-3.2
+Beithlahem-Jerusalem-9.8
+Jerusalem-Alezareya-0.7
+Alezareya-Beithlahem-8.6
+Jericho-Jerusalem-38
+Jerusalem-Ramallah-19
+Ramallah-Jericho-37
+Ramallah-Lod-45
+Lod-Ramlah-5.1
+Ramlah-Jerusalem-47.7
+Jerusalem-Lod-48.5
+Ramlah-Ashdod-35.4
+Ashdod-Majdal-21.3
+Lod-Tel Alrabee-22.6
+Tel Alrabee-Ramlah-18.5
+Tel Alrabee-Ashdod-34
+Salfeet-Ramallah-38.1
+Ramallah-Qalqilya-76.9
+Salfeet-Nablus-80
+Nablus-Qalqilya-117
+Qalqilya-Lod-45.4
+Qalqilya-Tel Alrabee-47.3
+Qalqilya-Alteera-19.2
+Alteera-Tulkarem-78.9
+Alteera-Qalansuwa-11.7
+Qalansuwa-Tulkarem-67.6
+Qalansuwa-Natania-16.5
+Nablus-Tubas-22.9
+Tubas-Bisan-129
+Tubas-Qabatya-23.4
+Qabatya-Barkeen-80.3
+Qabatya-Jinin-9
+Jinin-Barkeen-86.5
+Barkeen-Tulkarem-108
+Khedira-Natania-10
+Natania-Barkeen-59.6
+Natania-Qesarya-27.8
+Qesarya-Jinin-120
+Jinin-Bisan-159
+Jinin-Om Alfahem-119
+Om Alfahem-Qesarya-32
+Om Alfahem-Bisan-44
+Om Alfahem-Al Afoula-30.9
+Al Afoula-Bisan-37.5
+Al Afoula-Nasreh-12.2
+Nasreh-Tabareya-31
+Nasreh-Sakhneen-38.3
+Sakhneen-Tabareya-36.8
+Sakhneen-Haifa-39.7
+Haifa-Nasreh-47.4
+Haifa-Tamra-28.4
+Tamra-Sakhneen-19.9
+Haifa-Akaa-25.4
+Akaa-Tamra-19.2
+Akaa-Ras Alnaqora-19.4
+Ras Alnaqora-Safad-54.1
+Safad-Sakhneen-39.8
+Tabareya-Safad-37
+Majdal-Beit Lahia-26.76
+Majdal-Beit Hanon-25.79
+Rafah-Rahat-48.78
+Rahat-Khan Yonus-43.25
+Rahat-Deir Albalah-37.95
+Rahat-Gaza-30.49
+Gaza-Al Thaherya-49.65
+Gaza-Doora-53.62
+Gaza-Hebron-58.12
+Hebron-Beit Hanon-52.68
+Beit Hanon-Beit Jala-64.56
+Majdal-Beit Jala-58.72
+Tulkarem-Nablus-40.18
+Nablus-Qabatya-41.69
+Nablus-Barkeen-47.78
+Barkeen-Tulkarem-27.24
+Barkeen-Natania-40.68
+Ramlah-Beit Jala-46.62
+Beit Jala-Ashdod-58.48
+Beithlahem-Halhool-21.22
+Tel Alrabee-Alteera-23.37
+Alteera-Natania-13.57
+Natania-Tel Alrabee-27.42
+Lod-Jerusalem-39.61
+Ramallah-Nablus-30.68
+Qesarya-Haifa-43
+Om Alfahem-Haifa-36.89
+Tabareya-Bisan-40.6
+Ras Alnaqora-Sakhneen-29.51
+Alezareya-Beit Sahoor-7.16
+Alezareya-Jericho-21.06
+Beit Sahoor-Jericho-28.94
+Nablus-Jericho-24.82
+Hebron-Yatta-9.46
+Yatta-Doora-9.11
+Yatta-Al Thaherya-11.73
+Yatta-Beir Sabea-35.54
+Rahat-Al Thaherya-20.28
+Ras Alnaqora-Tamra-26.95
+Ramallah-Qalqilya-69.92
+Qalqilya-Salfeet-59.6
+Ramallah-Ramlah-46.4
+Qalqilya-Lod-40.88

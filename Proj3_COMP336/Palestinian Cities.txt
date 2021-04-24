@@ -1,0 +1,51 @@
+Ras Alnaqora,431,93
+Akaa,392,199
+Safad,522,176
+Haifa,352,257
+Nasreh,479,300
+Bisan,553,392
+Jinin,449,414
+Nablus,451,518
+Tulkarem,387,487
+Khedira,331,417
+Natania,328,467
+Al Afoula,479,326
+Tel Alrabee,280,623
+Lod,347,618
+Ramlah,341,640
+Ramallah,440,585
+Jericho,557,650
+Jerusalem,471,676
+Beithlahem,445,722
+Hebron,391,847
+Beir Sabea,333,979
+Ashdod,275,701
+Beit Hanon,226,814
+Gaza,189,839
+Khan Yonus,151,915
+Rafah,123,935
+Qalqilya,368,531
+Salfeet,435,540
+Al Thaherya,325,916
+Majdal,251,736
+Deir Albalah,158,893
+Beit Sahoor,473,738
+Doora,338,894
+Halhool,417,815
+Beit Jala,417,725
+Tubas,509,444
+Qabatya,461,437
+Yatta,362,909
+Om Alfahem,420,367
+Barkeen,438,433
+Alteera,358,513
+Rahat,264,948
+Beit Lahia,205,803
+Tabareya,555,261
+Qesarya,338,392
+Alezareya,482,687
+Om Alrashrash,403,1653
+Qalansuwa,369,486
+Sakhneen,482,227
+Tamra,412,220
+saji,400,400

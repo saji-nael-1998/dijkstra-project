@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<ScrollPane hbarPolicy="NEVER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="497.0" vbarPolicy="ALWAYS" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PathScreenCont">
+   <content>
+      <AnchorPane prefHeight="400.0" prefWidth="482.0" style="-fx-background-color: #242424;">
+         <children>
+            <VBox fx:id="table" layoutX="16.0" layoutY="52.0">
+               <children>
+                  <HBox>
+                     <children>
+                        <Label prefHeight="40.0" prefWidth="150.0" style="-fx-background-color: #654008; -fx-border-color: white; -fx-background-radius: 30 0 0 0; -fx-border-radius: 30 0 0 0;" text="Src" textFill="WHITE">
+                           <font>
+                              <Font name="Cambria Bold" size="24.0" />
+                           </font>
+                           <padding>
+                              <Insets left="15.0" />
+                           </padding>
+                        </Label>
+                        <Label prefHeight="40.0" prefWidth="150.0" style="-fx-background-color: #654008; -fx-border-color: white;" text="Dest" textFill="WHITE">
+                           <font>
+                              <Font name="Cambria Bold" size="24.0" />
+                           </font>
+                           <padding>
+                              <Insets left="15.0" />
+                           </padding>
+                        </Label>
+                        <Label prefHeight="40.0" prefWidth="150.0" style="-fx-background-color: #654008; -fx-border-color: white; -fx-background-radius: 0 30 0 0; -fx-border-radius: 0 30 0 0;" text="Destance" textFill="WHITE">
+                           <font>
+                              <Font name="Cambria Bold" size="24.0" />
+                           </font>
+                           <padding>
+                              <Insets left="15.0" />
+                           </padding>
+                        </Label>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <Label prefHeight="40.0" prefWidth="150.0" style="-fx-background-color: #654008; -fx-border-color: white; -fx-border-radius: 0 0 30 0; -fx-background-radius: 0 0 30 0;" text="Table" textFill="WHITE">
+               <font>
+                  <Font name="Calibri Bold" size="24.0" />
+               </font>
+               <padding>
+                  <Insets left="15.0" />
+               </padding>
+            </Label>
+         </children>
+      </AnchorPane>
+   </content>
+</ScrollPane>
