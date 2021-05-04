@@ -1,0 +1,9 @@
+.option{
+    -fx-background-color : #ffffff;
+   
+    }
+.option:hover{
+    -fx-background-color : #20770f;
+    -fx-pref-width : 220px;
+    -fx-text-fill : #fff;
+    }
